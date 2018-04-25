@@ -2,4 +2,4 @@
 Useful daily-use program
 
 # Preview
-![Video](https://www.youtube.com/embed/WZDov9wBPdU)
+[Video](https://www.youtube.com/embed/WZDov9wBPdU)
